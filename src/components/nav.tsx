@@ -8,7 +8,7 @@ interface NavLink{
 
 const navLinks: NavLink[] = [
     {
-        href:"/about",
+        href:"/about-me",
         text:"About Me"
     },
     {
