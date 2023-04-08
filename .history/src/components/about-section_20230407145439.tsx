@@ -1,0 +1,4 @@
+interface Props {
+    heading: Props
+    
+}
