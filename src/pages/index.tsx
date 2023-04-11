@@ -1,4 +1,4 @@
-import Desc from '@/components/desc'
+import Desc from '@/components/home-desc'
 import HeroImage from '@/components/hero-image'
 import Layout from '@/components/layout'
 import TechList from '@/components/tech-list'
